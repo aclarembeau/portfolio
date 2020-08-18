@@ -1,0 +1,22 @@
+I"J<h2 id="projects">Projects</h2>
+
+<ul>
+  <li><a href="https://github.com/rfloriot/New_applications_above_QUIC">OpenVPN &amp; SSH implementation using QUIC protocol in Go</a></li>
+  <li><a href="https://github.com/cnp3/CampusNetwork/tree/master/student_projects/Group1">Simulating an IPv6 campus network using Mininet in Python</a></li>
+</ul>
+
+<h2 id="apps">Apps</h2>
+<ul>
+  <li><a href="https://aclarembeau.github.io/google-advanced-search/">Google Advanced Search (in Vue.js)</a></li>
+  <li><a href="https://chrome.google.com/webstore/detail/drive-direct-download/mpfdlhhpbhgghplbambikplcfpbjiail">Drive Direct Download (Chrome extension)</a></li>
+</ul>
+
+<h2 id="libraries">Libraries</h2>
+
+<ul>
+  <li><a href="https://github.com/aclarembeau/kount">Kount - Count number of lines of code in directory (in Ruby)</a></li>
+  <li><a href="https://github.com/aclarembeau/python-ping">Python Ping Wrapper</a></li>
+  <li><a href="https://github.com/aclarembeau/go-mptcp-api">MPTCP Go binding</a></li>
+  <li><a href="https://github.com/aclarembeau/simpler-mptcp-api">MPTCP C Alternate library</a></li>
+</ul>
+:ET
