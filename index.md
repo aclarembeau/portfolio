@@ -8,6 +8,7 @@ layout: default
 - [Simulating an IPv6 campus network using Mininet in Python](https://github.com/cnp3/CampusNetwork/tree/master/student_projects/Group1)
 
 ## Apps
+- [Text Utilities (in Vue.js)](https://aclarembeau.github.io/text-utilities/)
 - [Google Advanced Search (in Vue.js)](https://aclarembeau.github.io/google-advanced-search/)
 - [Drive Direct Download (Chrome extension)](https://chrome.google.com/webstore/detail/drive-direct-download/mpfdlhhpbhgghplbambikplcfpbjiail)
 
