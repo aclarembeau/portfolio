@@ -10,6 +10,7 @@ layout: default
 ## Apps
 - [Text Utilities (in Vue.js)](https://aclarembeau.github.io/text-utilities/)
 - [Google Advanced Search (in Vue.js)](https://aclarembeau.github.io/google-advanced-search/)
+- [Online Chart Tools (in Vue.js)](https://aclarembeau.github.io/online-chart-tools/)
 - [Drive Direct Download (Chrome extension)](https://chrome.google.com/webstore/detail/drive-direct-download/mpfdlhhpbhgghplbambikplcfpbjiail)
 
 ## Libraries
