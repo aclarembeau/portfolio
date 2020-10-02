@@ -15,6 +15,7 @@ layout: default
 
 ## Libraries
 
+- [CodeSim - Find duplicated code (in Python)](https://github.com/aclarembeau/codesim)
 - [Kount - Count number of lines of code in directory (in Ruby)](https://github.com/aclarembeau/kount)
 - [Python Ping Wrapper](https://github.com/aclarembeau/python-ping)
 - [MPTCP Go binding](https://github.com/aclarembeau/go-mptcp-api)
